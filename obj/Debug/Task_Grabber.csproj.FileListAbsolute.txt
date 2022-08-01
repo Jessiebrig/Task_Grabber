@@ -1,0 +1,70 @@
+D:\User\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.csprojAssemblyReference.cache
+D:\User\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.Task_Grabber.resources
+D:\User\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.Properties.Resources.resources
+D:\User\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.csproj.GenerateResource.cache
+D:\User\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.csproj.CoreCompileInputs.cache
+D:\User\Task_Grabber\Task_Grabber\bin\Debug\Chrome_Profile_Path.txt
+D:\User\Task_Grabber\Task_Grabber\bin\Debug\Task_Grabber.exe.config
+D:\User\Task_Grabber\Task_Grabber\bin\Debug\Task_Grabber.exe
+D:\User\Task_Grabber\Task_Grabber\bin\Debug\Task_Grabber.pdb
+D:\User\Task_Grabber\Task_Grabber\bin\Debug\WebDriver.dll
+D:\User\Task_Grabber\Task_Grabber\bin\Debug\WebDriver.xml
+D:\User\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.csproj.CopyComplete
+D:\User\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.exe
+D:\User\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.pdb
+D:\My Programs\Task_Grabber\Task_Grabber\bin\Debug\Xpath_Notes.txt
+D:\My Programs\Task_Grabber\Task_Grabber\bin\Debug\Configs.txt
+D:\My Programs\Task_Grabber\Task_Grabber\bin\Debug\Task_Grabber.exe.config
+D:\My Programs\Task_Grabber\Task_Grabber\bin\Debug\Task_Grabber.exe
+D:\My Programs\Task_Grabber\Task_Grabber\bin\Debug\Task_Grabber.pdb
+D:\My Programs\Task_Grabber\Task_Grabber\bin\Debug\WebDriver.dll
+D:\My Programs\Task_Grabber\Task_Grabber\bin\Debug\WebDriver.xml
+D:\My Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.Config_Editor.resources
+D:\My Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.Task_Grabber.resources
+D:\My Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.Properties.Resources.resources
+D:\My Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.csproj.GenerateResource.cache
+D:\My Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.csproj.CoreCompileInputs.cache
+D:\My Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.csproj.CopyComplete
+D:\My Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.exe
+D:\My Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.pdb
+D:\My Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.csprojAssemblyReference.cache
+D:\My Programs\Task_Grabber\Task_Grabber\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+D:\My Programs\Task_Grabber\Task_Grabber\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+D:\My Programs\Task_Grabber\Task_Grabber\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\bin\Debug\Xpath_Notes.txt
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\bin\Debug\Configs.txt
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\bin\Debug\Task_Grabber.exe.config
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\bin\Debug\Task_Grabber.exe
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\bin\Debug\Task_Grabber.pdb
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\bin\Debug\WebDriver.dll
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\bin\Debug\WebDriver.xml
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\obj\Debug\Task_Grabber.Config_Editor.resources
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\obj\Debug\Task_Grabber.Task_Grabber.resources
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\obj\Debug\Task_Grabber.Properties.Resources.resources
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\obj\Debug\Task_Grabber.csproj.GenerateResource.cache
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\obj\Debug\Task_Grabber.csproj.CoreCompileInputs.cache
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\obj\Debug\Task_Grabber.csproj.CopyComplete
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\obj\Debug\Task_Grabber.exe
+D:\My_Programs\Task_Grabber_3.2\Task_Grabber\obj\Debug\Task_Grabber.pdb
+D:\My_Programs\Task_Grabber\Task_Grabber\bin\Debug\Xpath_Notes.txt
+D:\My_Programs\Task_Grabber\Task_Grabber\bin\Debug\Configs.txt
+D:\My_Programs\Task_Grabber\Task_Grabber\bin\Debug\Task_Grabber.exe.config
+D:\My_Programs\Task_Grabber\Task_Grabber\bin\Debug\Task_Grabber.exe
+D:\My_Programs\Task_Grabber\Task_Grabber\bin\Debug\Task_Grabber.pdb
+D:\My_Programs\Task_Grabber\Task_Grabber\bin\Debug\Microsoft.Diagnostics.Runtime.dll
+D:\My_Programs\Task_Grabber\Task_Grabber\bin\Debug\WebDriver.dll
+D:\My_Programs\Task_Grabber\Task_Grabber\bin\Debug\Microsoft.Diagnostics.Runtime.pdb
+D:\My_Programs\Task_Grabber\Task_Grabber\bin\Debug\Microsoft.Diagnostics.Runtime.xml
+D:\My_Programs\Task_Grabber\Task_Grabber\bin\Debug\WebDriver.xml
+D:\My_Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.csprojAssemblyReference.cache
+D:\My_Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.Config_Editor.resources
+D:\My_Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.Task_Grabber.resources
+D:\My_Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.Properties.Resources.resources
+D:\My_Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.csproj.GenerateResource.cache
+D:\My_Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.csproj.CoreCompileInputs.cache
+D:\My_Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.csproj.CopyComplete
+D:\My_Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.exe
+D:\My_Programs\Task_Grabber\Task_Grabber\obj\Debug\Task_Grabber.pdb

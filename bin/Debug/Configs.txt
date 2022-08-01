@@ -1,0 +1,23 @@
+-----Configuration-----
+//Prof_____
+Profile1: Jessie D:\New_Folder\Chrome_Jessie
+Profile2: JessiePLUS D:\New_Folder\Chrome_Jessie_PLUS
+Profile3: Taburnok D:\New_Folder\Chrome_Taburnok
+Profile4: Luciano D:\New_Folder\Chrome_Luciano
+Profile5: Burakday D:\New_Folder\Chrome_Burakday
+Profile6: Patrick D:\New_Folder\Chrome_Patrick
+//
+//Links_____
+Dash: https://www.remotasks.com/dashboard
+Lidar_Q: https://www.remotasks.com/tasks?type=lidar
+Modem_Block: https://192.168.8.1/html/nosignal.html
+StartXPath: .//div[contains(text(),'Start tasks')]
+//StartXPath: .//div[contains(text(),'Start reviews')]
+//StartReviewXPath: .//div[contains(text(),'Start reviews')]
+ExpiredXPath: .//div[contains(text(),'Oops, this task has expired!')]
+ContinueXPath: .//a[contains(text(),'Continue')]
+Relogin: .//span[contains(text(),'LOG IN')]
+Music_Path: D:\My_Programs\Task_Grabber\Task_Grabber\bin\Debug\Music\The Most Precious Treasure.wav.wav
+-----Configuration_End-----
+
+

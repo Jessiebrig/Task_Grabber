@@ -1,0 +1,7 @@
+//XPath
+.//div[contains(text(),'Start tasks')]//Start task
+.//div[contains(text(),'Start reviews')]//Start Review
+.//div[contains(text(),'Oops, this task has expired!')]
+.//a[contains(text(),'Continue')]
+//Relogin button
+.//span[contains(text(),'LOG IN')]
